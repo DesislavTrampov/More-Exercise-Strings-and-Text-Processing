@@ -1,11 +1,13 @@
-More Exercise Strings and Text Processing
+Exsercises From Fundamentals Course C#
 
-01.Extract Person Information
+More Exercises: Objects and Classes
 
-02.Ascii Sumator
+1.Company Roster
 
-03.Treasure Finder
+2.Oldest Family Member
 
-04.Morse Code Translator
+3.Speed Racing
 
-05.HTML
+4.Raw Data
+
+5.Shopping Spree
