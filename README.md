@@ -2,7 +2,7 @@ Exsercises From Fundamentals Course C#
 
 More Exercises: Objects and Classes
 
-1.Company Roster
+1.Extract Person Information
 
 2.Oldest Family Member
 
