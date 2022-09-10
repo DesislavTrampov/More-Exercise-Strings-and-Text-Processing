@@ -1,13 +1,13 @@
 Exsercises From Fundamentals Course C#
 
-More Exercises: Objects and Classes
+More Exercises: Text Processing
 
 1.Extract Person Information
 
-2.Oldest Family Member
+2.Ascii Samulator
 
-3.Speed Racing
+3.Treasure Finder
 
-4.Raw Data
+4.Morse Code Translator
 
-5.Shopping Spree
+5.HTML
